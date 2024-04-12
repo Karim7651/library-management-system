@@ -1,0 +1,3 @@
+10 karim 50
+50 ibrahim 20
+35 mohamed 25
